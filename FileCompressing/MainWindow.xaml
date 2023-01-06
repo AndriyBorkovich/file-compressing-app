@@ -1,0 +1,93 @@
+﻿<Window
+    x:Class="FileCompressing.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:FileCompressing"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="File compressing/decompressing app"
+    Width="655"
+    MinWidth="655"
+    MaxWidth="655"
+    Height="450"
+    MinHeight="450"
+    MaxHeight="450"
+    mc:Ignorable="d">
+    <StackPanel>
+        <Menu Height="20">
+            <MenuItem
+                Width="80"
+                Height="20"
+                Header="Info">
+                <MenuItem
+                    x:Name="CodingTableMenuItem"
+                    Header="Coding table"
+                    IsEnabled="False"
+                    Click="CodingTableMenuItem_OnClick"/>
+                <MenuItem x:Name="InstructionMenuItem" 
+                          Header="Instruction"
+                          Click="InstructionMenuItem_OnClick"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel Orientation="Vertical">
+
+            <Label
+                Name="Label1"
+                Margin="5"
+                HorizontalContentAlignment="Center"
+                FontSize="15">
+                Enter text to compress (optional):
+            </Label>
+            <TextBox
+                x:Name="FirstBox"
+                Width="600"
+                Height="300"
+                Margin="10"
+                HorizontalAlignment="Center"
+                FontSize="15"
+                TextChanged="FirstBox_OnTextChanged"
+                TextWrapping="Wrap"
+                VerticalScrollBarVisibility="Auto" />
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button
+                Name="CreateFileButton"
+                Width="120"
+                Height="25"
+                Margin="5"
+                Click="CreateFileButton_OnClick"
+                FontSize="15"
+                IsEnabled="False">
+                Create file
+            </Button>
+            <Button
+                Name="CompressFileButton"
+                Width="180"
+                Height="25"
+                Margin="5"
+                Click="CompressFileButton_OnClick"
+                FontSize="15">
+                Perform compression
+            </Button>
+            <Button
+                Name="DecompressFileButton"
+                Width="180"
+                Height="25"
+                Margin="5"
+                Click="DecompressFileButton_OnClick"
+                FontSize="15">
+                Perform decompression
+            </Button>
+            <Button
+                Name="OpenXmlFileButton"
+                Width="120"
+                Height="25"
+                Margin="5"
+                Click="OpenXmlFileButton_OnClick"
+                FontSize="15">
+                View XML file
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

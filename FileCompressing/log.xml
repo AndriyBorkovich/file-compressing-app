@@ -1,0 +1,362 @@
+<LoggingItems>
+  <LogItem>
+    <FileName>hello.dat</FileName>
+    <Location>C:\User\Users\Desktop\hello.dat</Location>
+    <Operation>Decompression</Operation>
+    <CompressionRatio>81,65</CompressionRatio>
+    <Date>20:48:31 26 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>file.dat</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\EncodingConsole\EncodingConsole\bin\Debug\net6.0\file.dat</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>70,0</CompressionRatio>
+    <Date>22:56:43 26 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>file</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\EncodingConsole\EncodingConsole\bin\Debug\net6.0\file</Location>
+    <Operation>Compression</Operation>
+    <Date>22:56:43 26 грудня 2022 р.</Date>
+    <Error>No file with this name</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>file.dat</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\EncodingConsole\EncodingConsole\bin\Debug\net6.0\file.dat</Location>
+    <Operation>Compression</Operation>
+    <Date>23:07:19 26 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>file.uncompressed</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\EncodingConsole\EncodingConsole\bin\Debug\net6.0\file.uncompressed</Location>
+    <Operation>Decompression</Operation>
+    <Date>23:07:20 26 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>file.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\EncodingConsole\EncodingConsole\bin\Debug\net6.0\file.txt</Location>
+    <Operation>Compression</Operation>
+    <Date>23:10:11 26 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>file.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\EncodingConsole\EncodingConsole\bin\Debug\net6.0\file.txt</Location>
+    <Operation>Decompression</Operation>
+    <Date>23:10:11 26 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Nothing</Operation>
+    <Date>14:08:24 28 грудня 2022 р.</Date>
+    <Error>Can't find/create file!
+Please choose/create file</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>70,0</CompressionRatio>
+    <Date>14:46:36 28 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>70,0</CompressionRatio>
+    <Date>14:55:52 28 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <Date>14:56:32 28 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <Date>14:58:17 28 грудня 2022 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <Date>13:03:03 1 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>C:\Users\User\Desktop\test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>13:50:19 1 січня 2023 р.</Date>
+    <Error>Could not find file 'C:\Users\User\Desktop\test1.dat'.</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>C:\Users\User\Desktop\test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>13:51:10 1 січня 2023 р.</Date>
+    <Error>Could not find file 'C:\Users\User\Desktop\test1.dat'.</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>100</CompressionRatio>
+    <Date>14:43:32 1 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>66,6538016209958</CompressionRatio>
+    <Date>14:44:50 1 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>66,65</CompressionRatio>
+    <Date>14:47:30 1 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>16:38:01 1 січня 2023 р.</Date>
+    <Error>Can't open file!
+Please, try again</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>C:\Users\User\Desktop\test1.dat</FileName>
+    <Location>C:\Users\User\Desktop\test1.dat</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>17:05:26 1 січня 2023 р.</Date>
+    <Error>test1.dat isn't a text file!
+ Please, choose/create another file with correct extension (.txt)</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>17:09:16 1 січня 2023 р.</Date>
+    <Error>Can't open file!
+Please, try again</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>18:52:14 1 січня 2023 р.</Date>
+    <Error>Can't open file!
+Please, try again</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>85,51</CompressionRatio>
+    <Date>19:07:49 1 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>C:\Users\User\Desktop\test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>19:11:16 1 січня 2023 р.</Date>
+    <Error>test1.txt isn't a DAT file!
+ Please, choose/create another file with correct extension (.dat)</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>19:12:58 1 січня 2023 р.</Date>
+    <Error>Can't open file!
+Please, try again</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>85,51</CompressionRatio>
+    <Date>0:39:50 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>66,65</CompressionRatio>
+    <Date>0:44:38 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>85,51</CompressionRatio>
+    <Date>0:47:56 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>60</CompressionRatio>
+    <Date>0:48:58 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>60</CompressionRatio>
+    <Date>0:53:59 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>C:\Users\User\Desktop\test2.dat</FileName>
+    <Location>C:\Users\User\Desktop\test2.dat</Location>
+    <Operation>Decompression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>0:54:09 6 січня 2023 р.</Date>
+    <Error>Could not find file 'C:\Users\User\Desktop\test2.compressed'.</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>60</CompressionRatio>
+    <Date>0:55:03 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>60</CompressionRatio>
+    <Date>0:58:26 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>65,54</CompressionRatio>
+    <Date>1:01:07 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>C:\Users\User\Desktop\test1.txt</FileName>
+    <Location>C:\Users\User\Desktop\test1.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>1:01:21 6 січня 2023 р.</Date>
+    <Error>test1.txt isn't a DAT file!
+ Please, choose/create another file with correct extension (.dat)</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>12:54:53 6 січня 2023 р.</Date>
+    <Error>Can't open file!
+Please, try again</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>12:56:09 6 січня 2023 р.</Date>
+    <Error>Can't open file!
+Please, try again</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>60</CompressionRatio>
+    <Date>13:13:40 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>test2.txt</FileName>
+    <Location>C:\Users\User\Desktop\My Projects\FileCompressing\FileCompressing\bin\Debug\test2.txt</Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>60</CompressionRatio>
+    <Date>17:06:11 6 січня 2023 р.</Date>
+    <Error>No errors</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>17:17:32 6 січня 2023 р.</Date>
+    <Error>Can't open file!
+Please, try again</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>23:04:17 6 січня 2023 р.</Date>
+    <Error>Can't open file!
+Please, try again</Error>
+  </LogItem>
+  <LogItem>
+    <FileName>
+    </FileName>
+    <Location>
+    </Location>
+    <Operation>Compression</Operation>
+    <CompressionRatio>0</CompressionRatio>
+    <Date>23:09:39 6 січня 2023 р.</Date>
+    <Error> isn't a DAT file!
+ Please, choose/create another file with correct extension (.dat)</Error>
+  </LogItem>
+</LoggingItems>
